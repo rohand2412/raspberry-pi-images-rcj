@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Evac-Final-Images</folder>
+	<filename>evac528.jpg</filename>
+	<path>/home/mohan/VSCodeProjects/raspberry-pi-images-rcj/Evac-Final-Images/evac528.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alive_ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>55</ymin>
+			<xmax>128</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>
