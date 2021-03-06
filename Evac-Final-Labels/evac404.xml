@@ -1,7 +1,7 @@
 <annotation verified="yes">
 	<folder>Evac-Final-Images</folder>
-	<filename>evac404.jpg</filename>
-	<path>/home/mohan/VSCodeProjects/raspberry-pi-images-rcj/Evac-Final-Images/evac404.jpg</path>
+	<filename>evac331.jpg</filename>
+	<path>/home/mohan/VSCodeProjects/raspberry-pi-images-rcj/Evac-Final-Images/evac331.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>87</xmin>
-			<ymin>29</ymin>
-			<xmax>180</xmax>
-			<ymax>129</ymax>
+			<xmin>82</xmin>
+			<ymin>100</ymin>
+			<xmax>189</xmax>
+			<ymax>206</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>alive_ball</name>
 		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>166</ymin>
+			<xmax>65</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dead_ball</name>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>131</xmin>
-			<ymin>28</ymin>
-			<xmax>174</xmax>
-			<ymax>71</ymax>
+			<xmin>16</xmin>
+			<ymin>59</ymin>
+			<xmax>122</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dead_ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>75</ymin>
+			<xmax>191</xmax>
+			<ymax>142</ymax>
 		</bndbox>
 	</object>
 </annotation>

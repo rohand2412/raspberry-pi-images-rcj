@@ -1,7 +1,7 @@
 <annotation verified="yes">
 	<folder>Evac-Final-Images</folder>
-	<filename>evac1173.png</filename>
-	<path>/home/mohan/VSCodeProjects/raspberry-pi-images-rcj/Evac-Final-Images/evac1173.png</path>
+	<filename>evac868.png</filename>
+	<path>/home/mohan/VSCodeProjects/raspberry-pi-images-rcj/Evac-Final-Images/evac868.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>alive_ball</name>
+		<name>dead_ball</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>217</xmin>
-			<ymin>43</ymin>
-			<xmax>276</xmax>
-			<ymax>106</ymax>
+			<xmin>1</xmin>
+			<ymin>52</ymin>
+			<xmax>21</xmax>
+			<ymax>130</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>alive_ball</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>253</xmin>
-			<ymin>19</ymin>
-			<xmax>300</xmax>
-			<ymax>87</ymax>
+			<xmin>191</xmin>
+			<ymin>14</ymin>
+			<xmax>245</xmax>
+			<ymax>67</ymax>
 		</bndbox>
 	</object>
 </annotation>

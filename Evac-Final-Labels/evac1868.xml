@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Evac-Final-Images</folder>
+	<filename>evac1310.png</filename>
+	<path>/home/advait/RCJ2021/raspberry-pi-images-rcj/Evac-Final-Images/evac1310.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dead_ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>28</ymin>
+			<xmax>125</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

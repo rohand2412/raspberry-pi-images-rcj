@@ -1,7 +1,7 @@
 <annotation verified="yes">
 	<folder>Evac-Final-Images</folder>
-	<filename>evac1456.png</filename>
-	<path>/home/mohan/VSCodeProjects/raspberry-pi-images-rcj/Evac-Final-Images/evac1456.png</path>
+	<filename>evac1049.png</filename>
+	<path>/home/mohan/VSCodeProjects/raspberry-pi-images-rcj/Evac-Final-Images/evac1049.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>145</xmin>
-			<ymin>62</ymin>
-			<xmax>295</xmax>
-			<ymax>216</ymax>
+			<xmin>96</xmin>
+			<ymin>38</ymin>
+			<xmax>212</xmax>
+			<ymax>157</ymax>
 		</bndbox>
 	</object>
 </annotation>
