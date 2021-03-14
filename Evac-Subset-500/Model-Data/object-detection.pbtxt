@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'dead_ball'
+}
+
+item {
+  id: 2
+  name: 'alive_ball'
+}
