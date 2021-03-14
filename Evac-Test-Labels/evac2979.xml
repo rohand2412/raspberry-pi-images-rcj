@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Evac-Final-Images</folder>
+	<filename>evac2979.png</filename>
+	<path>/home/rohan/Documents/RCJ2021Repos/raspberry-pi-images-rcj/Evac-Final-Images/evac2979.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alive_ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>26</ymin>
+			<xmax>124</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>
