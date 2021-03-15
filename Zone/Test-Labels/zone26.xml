@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Final-Images</folder>
+	<filename>zone26.png</filename>
+	<path>/home/advait/RCJ2021/raspberry-pi-images-rcj/Zone/Final-Images/zone26.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>8</ymin>
+			<xmax>300</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

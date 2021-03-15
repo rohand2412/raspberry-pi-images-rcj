@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Final-Images</folder>
+	<filename>zone437.png</filename>
+	<path>/home/mohan/VSCodeProjects/raspberry-pi-images-rcj/Zone/Final-Images/zone437.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>10</ymin>
+			<xmax>300</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+</annotation>
