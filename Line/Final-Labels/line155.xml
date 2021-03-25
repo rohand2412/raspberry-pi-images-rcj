@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Final-Images</folder>
+	<filename>line155.png</filename>
+	<path>/home/rohan/Documents/RCJ2021Repos/raspberry-pi-images-rcj/Line/Final-Images/line155.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>top_left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>2</ymin>
+			<xmax>220</xmax>
+			<ymax>35</ymax>
+		</bndbox>
+	</object>
+</annotation>

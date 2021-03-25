@@ -1,7 +1,7 @@
 <annotation verified="yes">
 	<folder>Final-Images</folder>
-	<filename>line15.png</filename>
-	<path>/home/rohan/Documents/RCJ2021Repos/raspberry-pi-images-rcj/Line/Final-Images/line15.png</path>
+	<filename>line168.png</filename>
+	<path>/home/rohan/Documents/RCJ2021Repos/raspberry-pi-images-rcj/Line/Final-Images/line168.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>top_right</name>
+		<name>top_left</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>61</xmin>
-			<ymin>85</ymin>
-			<xmax>259</xmax>
-			<ymax>271</ymax>
+			<xmin>28</xmin>
+			<ymin>107</ymin>
+			<xmax>256</xmax>
+			<ymax>277</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>top_right</name>
+		<name>bottom_right</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>19</ymin>
-			<xmax>77</xmax>
-			<ymax>68</ymax>
+			<xmin>125</xmin>
+			<ymin>55</ymin>
+			<xmax>274</xmax>
+			<ymax>114</ymax>
 		</bndbox>
 	</object>
 </annotation>
