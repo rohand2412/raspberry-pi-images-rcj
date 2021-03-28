@@ -1,4 +1,4 @@
-<annotation verified="yes">
+<annotation>
 	<folder>Final-Images</folder>
 	<filename>line124.png</filename>
 	<path>/home/rohan/Documents/RCJ2021Repos/raspberry-pi-images-rcj/Line/Final-Images/line124.png</path>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>86</xmin>
+			<xmin>103</xmin>
 			<ymin>14</ymin>
-			<xmax>174</xmax>
-			<ymax>43</ymax>
+			<xmax>169</xmax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 </annotation>

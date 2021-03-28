@@ -14,13 +14,13 @@
 	<object>
 		<name>top_left</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>117</ymin>
-			<xmax>201</xmax>
-			<ymax>255</ymax>
+			<xmin>30</xmin>
+			<ymin>147</ymin>
+			<xmax>182</xmax>
+			<ymax>265</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>64</xmin>
-			<ymin>45</ymin>
-			<xmax>206</xmax>
-			<ymax>115</ymax>
+			<xmin>77</xmin>
+			<ymin>58</ymin>
+			<xmax>182</xmax>
+			<ymax>100</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>13</xmin>
+			<xmin>18</xmin>
 			<ymin>2</ymin>
-			<xmax>111</xmax>
-			<ymax>31</ymax>
+			<xmax>91</xmax>
+			<ymax>19</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>145</xmin>
-			<ymin>3</ymin>
-			<xmax>244</xmax>
+			<xmin>159</xmin>
+			<ymin>13</ymin>
+			<xmax>229</xmax>
 			<ymax>42</ymax>
 		</bndbox>
 	</object>
