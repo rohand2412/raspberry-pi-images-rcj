@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Final-Images</folder>
+	<filename>line567.png</filename>
+	<path>/home/mohan/VSCodeProjects/raspberry-pi-images-rcj/Line/Final-Images/line567.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottom_right</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>99</ymin>
+			<xmax>300</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>
